@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: 35c8d0a6-0701-3d3a-8a04-5aa4f3177282
 ---
@@ -76,7 +79,7 @@ Time-resolved electronic spectroscopy ([PDF]({{< baseurl >}}/resources/5_33_exp3
 
 Two coupled oscillators ([PDF]({{< baseurl >}}/resources/laser_appendix1))
 
-Calculation of R0 ([PDF]({{< baseurl >}}/resources/laser_appendix2))
+Calculation of R{{< sub "0" >}} ([PDF]({{< baseurl >}}/resources/laser_appendix2))
 
 Convolution ([PDF]({{< baseurl >}}/resources/laser_appendix3))
 

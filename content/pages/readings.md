@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 122ac3a2-8cf6-6915-5d26-671fe3297bd0
 ---
@@ -26,10 +29,10 @@ READINGS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 IR spectroscopy
 {{< tdclose >}}
 {{< tdopen >}}
@@ -44,10 +47,10 @@ Shoemaker, David P., Carl W. Garland, and Joseph W. Nibler. _Experiments in Phys
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 3
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="5" >}}
 Time-resolved spectroscopy
 {{< tdclose >}}
 {{< tdopen >}}
@@ -69,7 +72,7 @@ Forster, Th. "Transfer Mechanisms of Electronic Excitation." _Discussions of the
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Cross, A. J., and G. R. Fleming. "Influence of Inhibitor Binding on the Internal Motions of Lysozyme." _Biophysical Journal_ 50 (1986): 507. ([PDF - 1.1 MB](http://www.pubmedcentral.nih.gov/picrender.fcgi?artid=1329727&blobtype=pdf))#
+Cross, A. J., and G. R. Fleming. "Influence of Inhibitor Binding on the Internal Motions of Lysozyme." _Biophysical Journal_ 50 (1986): 507. ([PDF - 1.1 MB](http://www.pubmedcentral.nih.gov/picrender.fcgi?artid=1329727&blobtype=pdf)){{< sup "#" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,10 +83,10 @@ Jordanides, et al. "Solvation Dynamics in Protein Environments Studied by Photon
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Nitrogen scission
 {{< tdclose >}}
 {{< tdopen >}}
@@ -93,7 +96,7 @@ Laplaza, C. E., et al. "Dinitrogen Cleavage by Three-Coordinate Molybdenum (III)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Cummins, C. C. "Reductive Cleavage and Related Reactions Leading to Molybdenum-element Multiple Bonds: New Pathways Offered by Three-coordinate Molybdenum (III)." _Chemical Communications_ (1998): 1777-1786. ([PDF](http://www.rsc.org/delivery/_ArticleLinking/DisplayArticleForFree.cfm?doi=a802402b&JournalCode=CC))#
+Cummins, C. C. "Reductive Cleavage and Related Reactions Leading to Molybdenum-element Multiple Bonds: New Pathways Offered by Three-coordinate Molybdenum (III)." _Chemical Communications_ (1998): 1777-1786. ([PDF](http://www.rsc.org/delivery/_ArticleLinking/DisplayArticleForFree.cfm?doi=a802402b&JournalCode=CC)){{< sup "#" >}}
 {{< tdclose >}}
 
 {{< trclose >}}

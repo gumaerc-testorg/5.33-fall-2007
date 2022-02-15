@@ -5,8 +5,13 @@ description: This appendix describes the use of Gaussian 98W software for runnin
   isotropic Fermi contact couplings) for alkyl substituted semibenzoquinones. This
   appendix describes the building of the semibenzoquinones molecules for the Gaussian
   98W input file, the running of the calculation, and reading of the output file.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007/9edd61eeef39b5a4cdc61dc86549196c_esr_appendix2.pdf
+file: /media/courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2007/9edd61eeef39b5a4cdc61dc86549196c_esr_appendix2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: esr_appendix2.pdf
 uid: 9edd61ee-ef39-b5a4-cdc6-1dc86549196c
