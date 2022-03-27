@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 35c8d0a6-0701-3d3a-8a04-5aa4f3177282
 resourcetype: Document
 title: 5_33_exp_1_app_1.pdf
 uid: f76ecf26-e9bf-d562-5c57-dec0ae53bb6b

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a0626016-c8f1-e8e6-ab42-386ec1f29f44
 resourcetype: Document
 title: vibrotspec.pdf
 uid: a753a15a-2d09-7f4e-20b2-2f15ab093cfe

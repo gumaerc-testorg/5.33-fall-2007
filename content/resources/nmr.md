@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 35c8d0a6-0701-3d3a-8a04-5aa4f3177282
 resourcetype: Document
 title: nmr.pdf
 uid: d9bea947-e1f2-95f7-2b66-ccb5e636d836

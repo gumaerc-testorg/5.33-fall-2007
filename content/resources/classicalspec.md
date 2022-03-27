@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a0626016-c8f1-e8e6-ab42-386ec1f29f44
 resourcetype: Document
 title: classicalspec.pdf
 uid: 44c1091d-d46d-ef8c-45b6-271479d0a136

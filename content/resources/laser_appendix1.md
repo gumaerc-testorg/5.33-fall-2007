@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 35c8d0a6-0701-3d3a-8a04-5aa4f3177282
 resourcetype: Document
 title: laser_appendix1.pdf
 uid: 3d7c34e0-217e-af63-bdfd-e6ebdc0b44eb
