@@ -6,6 +6,7 @@ file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: nitrogen.pdf
 uid: d5b1a264-c685-6980-f818-c045f0733268
 ---
 This resource includes information on nitrogen scission by a molybdenum(III) tris-amide complex, introduction, glove box, and synthesis of the molybdenum precursor.
-

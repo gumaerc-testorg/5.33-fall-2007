@@ -6,6 +6,7 @@ file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ir_appendix1.pdf
 uid: 88cec2c6-d70f-cdd3-47be-bf6c6cf613b2
 ---
 This resource includes information on group theory explained using various graphs.
-

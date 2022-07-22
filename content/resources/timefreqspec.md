@@ -5,6 +5,7 @@ file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: timefreqspec.pdf
 uid: 213aa2aa-64e8-961d-e35b-2e2f4ddf6372
 ---
 Lecture notes on time and frequency-domain spectroscopy.
-

@@ -6,6 +6,7 @@ file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: nitrogenapendix2.pdf
 uid: 1cb9227e-3c99-370d-c5e7-c88193207b11
 ---
 Waste Inventory Sheet for Lab Experiment #4: Nitrogen Scission by a Molybdenum (III) tris-amide Complex.
-

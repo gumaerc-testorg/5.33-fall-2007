@@ -6,6 +6,7 @@ file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: nmr.pdf
 uid: d9bea947-e1f2-95f7-2b66-ccb5e636d836
 ---
 This resource includes information on introduction, experimental, and data analysis.
-

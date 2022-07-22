@@ -6,6 +6,7 @@ file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: n2lect.pdf
 uid: d5efeff2-2f83-e9ef-bc99-577b1a7356b5
 ---
 Lecture notes on Nitrogen scission with Molybdenum complex, Courtesy of Zachary Tonzetich. Used with permission.
-

@@ -5,6 +5,7 @@ file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: laser_appendix3.pdf
 uid: 5c94c01a-6564-596f-7dcb-b62e563018ec
 ---
 Appendix to Lab Experiment #3 on Convolution.
-

@@ -7,6 +7,7 @@ file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: spec2.pdf
 uid: fc856998-d9f7-0cba-0f40-919429835b72
 ---
 This resource includes information on classical equation of motion for harmonic oscillation, harmonic oscillator with no damping/no external force, damping, and interaction of molecule with EM field.
-

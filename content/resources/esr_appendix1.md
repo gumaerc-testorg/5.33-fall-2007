@@ -7,6 +7,7 @@ file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: esr_appendix1.pdf
 uid: 6cfca0e0-ccc9-9164-3ecd-0331baa26aac
 ---
 This appendix describes the use of Gaussian 03W Density Functional Theory (DFT) software to calculate hyperfine coupling constants (the isotropic Fermi contact couplings) for semi-1,4-benzoquinone, methyl-, ethyl-, i-propyl- and t-butyl semibenzoquinones.
-

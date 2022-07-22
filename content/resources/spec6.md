@@ -6,6 +6,7 @@ file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: spec6.pdf
 uid: 478cab00-b0a8-9867-21ce-e39d8eb5fd06
 ---
 This course inculdes information on types of electronic transitions, electronic spectra, and relaxation of electronic states.
-

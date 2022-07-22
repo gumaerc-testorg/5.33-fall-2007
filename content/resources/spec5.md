@@ -7,6 +7,7 @@ file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: spec5.pdf
 uid: b5aa9fab-753a-e8cd-28fd-524a6788f85f
 ---
 This course inculdes information on vibrational-rotational spectrum of heteronuclear diatomic, intensity of vibrational-rotational transitions, and vibrations of polyatomic molecules ? normal modes.
-

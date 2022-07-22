@@ -6,6 +6,7 @@ file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ir.pdf
 uid: 8abc69bd-71c1-d179-1f30-cf61fcb4e0a0
 ---
 This resource includes information on introduction, experimental procedure, theory, born-oppenheimer approximation, nuclear spin statistics, and analysis.
-

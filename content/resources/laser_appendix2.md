@@ -6,6 +6,7 @@ file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: laser_appendix2.pdf
 uid: 441262b8-f192-12d5-db65-956b7c934deb
 ---
 Appendix to Lab Experiment #3 on Calculation of R0 from Spectral Overlap with MatLab?.
-

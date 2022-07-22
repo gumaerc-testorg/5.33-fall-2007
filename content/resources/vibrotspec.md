@@ -6,6 +6,7 @@ file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: vibrotspec.pdf
 uid: a753a15a-2d09-7f4e-20b2-2f15ab093cfe
 ---
 Lecture notes on vibrational-rotational spectrum of heteronuclear diatomic, intensity of vibrational-rotational transitions, and vibrations of polyatomic molecules.
-

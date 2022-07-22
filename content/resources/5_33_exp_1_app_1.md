@@ -5,6 +5,7 @@ file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 5_33_exp_1_app_1.pdf
 uid: f76ecf26-e9bf-d562-5c57-dec0ae53bb6b
 ---
 Appendix on Group Theory for Experiment #1.
-

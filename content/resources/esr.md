@@ -6,6 +6,7 @@ file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: esr.pdf
 uid: a77cc1ce-a1d7-119d-c574-6eb42d5364b3
 ---
 This resource includes information on introduction,the essence of ESR, experimental section, and calculations.
-

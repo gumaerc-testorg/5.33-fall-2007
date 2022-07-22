@@ -5,6 +5,7 @@ file: /courses/5-33-advanced-chemical-experimentation-and-instrumentation-fall-2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: introspec.pdf
 uid: a93b4253-d611-fdba-fc60-5c2ff9764aa6
 ---
 Lecture notes with an introduction to spectroscopy.
-
