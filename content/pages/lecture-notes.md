@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the course lecture notes.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: a0626016-c8f1-e8e6-ab42-386ec1f29f44
 ---
@@ -24,7 +28,7 @@ LECTURE NOTES
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to spectroscopy ([PDF]({{< baseurl >}}/resources/introspec))
+Introduction to spectroscopy ({{% resource_link a93b4253-d611-fdba-fc60-5c2ff9764aa6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +37,7 @@ Introduction to spectroscopy ([PDF]({{< baseurl >}}/resources/introspec))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Classical model of spectroscopy ([PDF]({{< baseurl >}}/resources/classicalspec))
+Classical model of spectroscopy ({{% resource_link 44c1091d-d46d-ef8c-45b6-271479d0a136 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +46,7 @@ Classical model of spectroscopy ([PDF]({{< baseurl >}}/resources/classicalspec))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Time and frequency-domain spectroscopy ([PDF]({{< baseurl >}}/resources/timefreqspec))
+Time and frequency-domain spectroscopy ({{% resource_link 213aa2aa-64e8-961d-e35b-2e2f4ddf6372 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +55,7 @@ Time and frequency-domain spectroscopy ([PDF]({{< baseurl >}}/resources/timefreq
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Principles for describing molecular spectroscopy ([PDF]({{< baseurl >}}/resources/molecspec))
+Principles for describing molecular spectroscopy ({{% resource_link 13e358b9-2c77-68bc-31be-5c1a8a8713ab "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +64,7 @@ Principles for describing molecular spectroscopy ([PDF]({{< baseurl >}}/resource
 11 and 24
 {{< tdclose >}}
 {{< tdopen >}}
-Electronic spectroscopy ([PDF]({{< baseurl >}}/resources/elecspec))
+Electronic spectroscopy ({{% resource_link d6dcfd93-8f55-f092-ed42-4c07b147dbe2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +73,7 @@ Electronic spectroscopy ([PDF]({{< baseurl >}}/resources/elecspec))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Vibrational-rotational spectroscopy ([PDF]({{< baseurl >}}/resources/vibrotspec))
+Vibrational-rotational spectroscopy ({{% resource_link a753a15a-2d09-7f4e-20b2-2f15ab093cfe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +82,7 @@ Vibrational-rotational spectroscopy ([PDF]({{< baseurl >}}/resources/vibrotspec)
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Nitrogen scission with Molybdenum complex ([PDF - 1.1 MB]({{< baseurl >}}/resources/n2lect)) (Courtesy of Zachary Tonzetich. Used with permission.)
+Nitrogen scission with Molybdenum complex ({{% resource_link d5efeff2-2f83-e9ef-bc99-577b1a7356b5 "PDF - 1.1 MB" %}}) (Courtesy of Zachary Tonzetich. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +91,7 @@ Nitrogen scission with Molybdenum complex ([PDF - 1.1 MB]({{< baseurl >}}/resour
 19 and 21
 {{< tdclose >}}
 {{< tdopen >}}
-Magnetic resonance spectroscopy ([PDF]({{< baseurl >}}/resources/magresspec))
+Magnetic resonance spectroscopy ({{% resource_link a08539bf-d87b-370c-74de-36503e0f3fdc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

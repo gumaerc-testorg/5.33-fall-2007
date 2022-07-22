@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the course lab experiments and a
+  warning notice on potential hazards.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: 35c8d0a6-0701-3d3a-8a04-5aa4f3177282
 ---
@@ -29,16 +34,16 @@ APPENDICES
 
 IR Lab:
 
-Molecular spectroscopy of acetylene and methane ([PDF]({{< baseurl >}}/resources/5_33_exp_1))
+Molecular spectroscopy of acetylene and methane ({{% resource_link b3769520-85d6-098f-95ad-edb35000256d "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Group theory ([PDF]({{< baseurl >}}/resources/5_33_exp_1_app_1))
+Group theory ({{% resource_link f76ecf26-e9bf-d562-5c57-dec0ae53bb6b "PDF" %}})
 
-DFT calculations ([PDF]({{< baseurl >}}/resources/ir_appendix2)) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
+DFT calculations ({{% resource_link a5419c55-8c0b-f96b-e87b-70c15195463c "PDF" %}}) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
 
 
 {{< tdclose >}}
@@ -50,14 +55,14 @@ DFT calculations ([PDF]({{< baseurl >}}/resources/ir_appendix2)) (Courtesy of Dr
 
 NMR/ESR Lab:
 
-Magnetic resonance spectroscopy ([PDF]({{< baseurl >}}/resources/5_33_exp2a))
+Magnetic resonance spectroscopy ({{% resource_link 624886b9-13d1-7b8f-7004-572a44e19136 "PDF" %}})
 
-ESR spectroscopy ([PDF]({{< baseurl >}}/resources/5_33_exp2b))
+ESR spectroscopy ({{% resource_link 4655bde3-90d2-1aa7-1051-3dc8bea06989 "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-DFT calculations ([PDF 1]({{< baseurl >}}/resources/esr_appendix1)) ([PDF 2]({{< baseurl >}}/resources/esr_appendix2)) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
+DFT calculations ({{% resource_link 6cfca0e0-ccc9-9164-3ecd-0331baa26aac "PDF 1" %}}) ({{% resource_link 9edd61ee-ef39-b5a4-cdc6-1dc86549196c "PDF 2" %}}) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,18 +72,18 @@ DFT calculations ([PDF 1]({{< baseurl >}}/resources/esr_appendix1)) ([PDF 2]({{<
 
 Laser Lab:
 
-Time-resolved electronic spectroscopy ([PDF]({{< baseurl >}}/resources/5_33_exp3))
+Time-resolved electronic spectroscopy ({{% resource_link 8ecaa4ba-c97f-5de5-e19f-532af4a94de5 "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Two coupled oscillators ([PDF]({{< baseurl >}}/resources/laser_appendix1))
+Two coupled oscillators ({{% resource_link 3d7c34e0-217e-af63-bdfd-e6ebdc0b44eb "PDF" %}})
 
-Calculation of R0 ([PDF]({{< baseurl >}}/resources/laser_appendix2))
+Calculation of R{{< sub "0" >}} ({{% resource_link 441262b8-f192-12d5-db65-956b7c934deb "PDF" %}})
 
-Convolution ([PDF]({{< baseurl >}}/resources/laser_appendix3))
+Convolution ({{% resource_link 5c94c01a-6564-596f-7dcb-b62e563018ec "PDF" %}})
 
 
 {{< tdclose >}}
@@ -90,16 +95,16 @@ Convolution ([PDF]({{< baseurl >}}/resources/laser_appendix3))
 
 Nitrogen Lab:
 
-Nitrogen scission by molybdenum (III) xylidene complex ([PDF]({{< baseurl >}}/resources/5_33_exp4)) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
+Nitrogen scission by molybdenum (III) xylidene complex ({{% resource_link 3a475d60-2063-c132-a3b0-df705200af5d "PDF" %}}) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Theory ([PDF]({{< baseurl >}}/resources/5_33_exp4_app1))
+Theory ({{% resource_link e84d86eb-f146-a4b0-8aed-977ca1ab8140 "PDF" %}})
 
-Waste inventory sheet ([PDF]({{< baseurl >}}/resources/nitrogenapendix2)) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
+Waste inventory sheet ({{% resource_link 1cb9227e-3c99-370d-c5e7-c88193207b11 "PDF" %}}) (Courtesy of Dr. Mircea Gheorghiu. Used with permission.)
 
 
 {{< tdclose >}}

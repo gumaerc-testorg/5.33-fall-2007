@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The calendar section provides the schedule of laboratories and lectures
+  for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 4f8224b9-99b5-1e17-6721-f30396e0b900
 ---
@@ -11,7 +15,7 @@ During the first six weeks of the course, the class attends a series of lectures
 {{< anchor "exp_schedule" >}}{{< /anchor >}}Experiments Schedule
 ----------------------------------------------------------------
 
-The lab manuals for the experiments referred to in the table below can be found on the [Labs]({{< baseurl >}}/pages/labs) page.
+The lab manuals for the experiments referred to in the table below can be found on the {{% resource_link 35c8d0a6-0701-3d3a-8a04-5aa4f3177282 "Labs" %}} page.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -347,7 +351,7 @@ Laboratory check-out
 {{< anchor "lec_schedule" >}}{{< /anchor >}}Lecture Schedule
 ------------------------------------------------------------
 
-The lecture notes for the lectures listed below can be found on the [Lecture Notes]({{< baseurl >}}/pages/lecture-notes) page. On some indicated sessions, only the specified group is required to go to lecture.
+The lecture notes for the lectures listed below can be found on the {{% resource_link a0626016-c8f1-e8e6-ab42-386ec1f29f44 "Lecture Notes" %}} page. On some indicated sessions, only the specified group is required to go to lecture.
 
 {{< tableopen >}}
 {{< theadopen >}}

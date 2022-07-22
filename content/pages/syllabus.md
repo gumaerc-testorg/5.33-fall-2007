@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section provides the course overview and information about
+  experiments, laboratory partners, working hours, grading, and preparation.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a5329c8b-8e3e-77bb-1546-bd72aba6fde5
 ---
